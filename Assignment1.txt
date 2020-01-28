@@ -1,8 +1,0 @@
-Function Main
-    Output "Grab two slices of white bread and place them side by side on a plate."
-    Output "Grab two to three slices of ham and stack them on top of the left slice of bread."
-    Output "Grab a slice of cheese and stack it on top of the ham."
-    Output "Using a knife, spread some mayonnaise on the right slice of bread."
-    Output "Grab the right slice of bread and stack it on top of the cheese with the mayo touching the cheese."
-    Output "Enjoy!"
-End

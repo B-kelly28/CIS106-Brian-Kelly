@@ -1,6 +1,0 @@
-print("Grab two slices of white bread and place them side by side on a plate.")
-print("Grab two to three slices of ham and stack them on top of the left slice of bread.")
-print("Grab a slice of cheese and stack it on top of the ham.")
-print("Using a knife, spread some mayonnaise on the right slice of bread.")
-print("Grab the right slice of bread and stack it on top of the cheese with the mayo touching the cheese.")
-print("Enjoy!")
