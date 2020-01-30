@@ -1,8 +1,6 @@
-Function Main
-    Output "Grab two slices of white bread and place them side by side on a plate."
-    Output "Grab two to three slices of ham and stack them on top of the left slice of bread."
-    Output "Grab a slice of cheese and stack it on top of the ham."
-    Output "Using a knife, spread some mayonnaise on the right slice of bread."
-    Output "Grab the right slice of bread and stack it on top of the cheese with the mayo touching the cheese."
-    Output "Enjoy!"
-End
+Open the pantry and grab two slices of white bread from the loaf in the bag. Put the loaf of bread back into the pantry. Grab a paper plate from the pantry and place it on a table. Place the two slices side by side on the plate. Close the pantry.
+Open the fridge and grab the pre-packeged ham, package of sliced cheese, and the jar of mayonnaise. Close the fridge. Open the bag of ham and grab two to three slices of ham from the bag and stack them on top of the left slice of bread. Close the bag and place it near the fridge.
+Open the package of cheese and grab a slice of cheese from the bag and stack it on top of the ham. Close the bag and place it near the fridge.
+Open the silverware drawer and grab a butter knife by the handle. Close the drawer. Open the jar of mayonnaise. Using the knife, grab some mayonnaise and spread it on top of the right slice of bread. Put the knife in the sink. Open the fridge and put the ham, cheese, and mayonnaise back where they were in the fridge. Close the fridge.
+Grab the right slice of bread, flip so the mayonnaise is underneath the bread and stack it on top of the cheese with the mayo touching the cheese.
+Pick up the sandwich and take a bite. Enjoy!
