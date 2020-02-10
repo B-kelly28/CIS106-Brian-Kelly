@@ -4,14 +4,17 @@
         <attribute name="name" value=""/>
         <attribute name="authors" value="user"/>
         <attribute name="about" value=""/>
-        <attribute name="saved" value="2020-02-05 03:53:10 PM"/>
+        <attribute name="saved" value="2020-02-10 12:15:25 PM"/>
         <attribute name="created" value="dXNlcjtVU0VSUy1NQUNCT09LLVA7MjAyMC0wMi0wNTswMzo0NjoyMSBQTTsyNzk4"/>
-        <attribute name="edited" value="dXNlcjtVU0VSUy1NQUNCT09LLVA7MjAyMC0wMi0wNTswMzo1MzoxMCBQTTsxOzI5MDI="/>
+        <attribute name="edited" value="dXNlcjtVU0VSUy1NQUNCT09LLVA7MjAyMC0wMi0xMDsxMjoxNToyNSBQTTszOzI5MDQ="/>
     </attributes>
     <function name="Main" type="None" variable="">
         <parameters/>
         <body>
-            <output expression="&quot;Hello World!&quot;" newline="True"/>
+            <output expression="&quot;Enter your name!&quot;" newline="True"/>
+            <declare name="n1" type="String" array="False" size=""/>
+            <input variable="n1"/>
+            <output expression="&quot;Hello &quot; &amp; n1 &amp; &quot;!&quot;" newline="True"/>
         </body>
     </function>
 </flowgorithm>
