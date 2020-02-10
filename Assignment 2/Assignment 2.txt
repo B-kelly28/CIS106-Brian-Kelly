@@ -1,0 +1,8 @@
+Function Main
+    ... Comments go here ...
+    Output "Enter your name!"
+    Declare String name
+    
+    Input name
+    Output "Hello " & name & "!"
+End

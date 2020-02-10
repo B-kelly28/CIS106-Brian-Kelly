@@ -7,3 +7,4 @@ I am Brian Kelly and I am taking this course because it is required for my certi
 ## Assignment 2
 
 What I learned about coding so far is how I can use inputs and outputs for the user to use and declaring variables for the program to use when registering user inputs. What I can do with the source code is visualize how the user will read the program and how I can find errors within the program if the inputs/outputs do not look the way they should. I will be using PyCharm as my IDE and I plan to use it for future classes to help enhance my coding abilities.
+

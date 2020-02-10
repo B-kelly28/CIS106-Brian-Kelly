@@ -4,17 +4,19 @@
         <attribute name="name" value=""/>
         <attribute name="authors" value="user"/>
         <attribute name="about" value=""/>
-        <attribute name="saved" value="2020-02-10 12:15:25 PM"/>
+        <attribute name="saved" value="2020-02-10 12:20:48 PM"/>
         <attribute name="created" value="dXNlcjtVU0VSUy1NQUNCT09LLVA7MjAyMC0wMi0wNTswMzo0NjoyMSBQTTsyNzk4"/>
         <attribute name="edited" value="dXNlcjtVU0VSUy1NQUNCT09LLVA7MjAyMC0wMi0xMDsxMjoxNToyNSBQTTszOzI5MDQ="/>
+        <attribute name="edited" value="RGF2ZTtERVNLVE9QLTlWR0s5U1M7MjAyMC0wMi0xMDsxMjoyMDo0OCBQTTsyOzI4NTY="/>
     </attributes>
     <function name="Main" type="None" variable="">
         <parameters/>
         <body>
+            <comment text="Comments go here ..."/>
             <output expression="&quot;Enter your name!&quot;" newline="True"/>
-            <declare name="n1" type="String" array="False" size=""/>
-            <input variable="n1"/>
-            <output expression="&quot;Hello &quot; &amp; n1 &amp; &quot;!&quot;" newline="True"/>
+            <declare name="name" type="String" array="False" size=""/>
+            <input variable="name"/>
+            <output expression="&quot;Hello &quot; &amp; name &amp; &quot;!&quot;" newline="True"/>
         </body>
     </function>
 </flowgorithm>
