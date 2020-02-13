@@ -1,0 +1,3 @@
+Enter Celcius temperature:
+100
+100° Celcius is 212° Fahrenheit

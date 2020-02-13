@@ -1,0 +1,3 @@
+Enter Fahrenheit temperature:
+32
+32° Fahrenheit is 0° Celcius
